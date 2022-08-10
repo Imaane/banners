@@ -60,76 +60,7 @@
                     "ios_ar": "banners/banners/goChatChallengeBanner.jpeg"
                 },
                 "deeplink": "https://go.onmohub.com/caesuae/home",
-                "deeplink_path": "",
-                "type": "inapp",
-                "devices": "ios/android",
-                "category": "games",
-                "minVersion": 3,
-                "countries": "",
-                "timer": 5,
-                "visibility": 1,
-                "rank": 10,
-                "start_date": "2022-12-12T09:10:00.000Z",
-                "end_date": null
-            }،
-            {
-                "id": "4",
-                "title": "Games",
-                "image": "banners/banners/goChatChallengeBanner.jpeg",
-                "images": {
-                    "android_en": "banners/banners/goChatChallengeBanner.jpeg",
-                    "android_ar": "banners/banners/goChatChallengeBanner.jpeg",
-                    "ios_en": "banners/banners/goChatChallengeBanner.jpeg",
-                    "ios_ar": "banners/banners/goChatChallengeBanner.jpeg"
-                },
-                "deeplink": "https://go.onmohub.com/caesuae/home",
-                "deeplink_path": "",
-                "type": "external",
-                "devices": "ios/android",
-                "category": "games",
-                "minVersion": 3,
-                "countries": "",
-                "timer": 5,
-                "visibility": 1,
-                "rank": 10,
-                "start_date": "2022-12-12T09:10:00.000Z",
-                "end_date": null
-            },
-            {
-                "id": "5",
-                "title": "Games",
-                "image": "banners/banners/goChatChallengeBanner.jpeg",
-                "images": {
-                    "android_en": "banners/banners/goChatChallengeBanner.jpeg",
-                    "android_ar": "banners/banners/goChatChallengeBanner.jpeg",
-                    "ios_en": "banners/banners/goChatChallengeBanner.jpeg",
-                    "ios_ar": "banners/banners/goChatChallengeBanner.jpeg"
-                },
-                "deeplink": "https://go.onmohub.com/caesuae/home",
-                "deeplink_path": "https://go.onmohub.com/caesuae/home"",
-                "type": "web",
-                "devices": "ios/android",
-                "category": "games",
-                "minVersion": 3,
-                "countries": "",
-                "timer": 5,
-                "visibility": 1,
-                "rank": 10,
-                "start_date": "2022-12-12T09:10:00.000Z",
-                "end_date": null
-            },
-            {
-                "id": "6",
-                "title": "Games",
-                "image": "banners/banners/goChatChallengeBanner.jpeg",
-                "images": {
-                    "android_en": "banners/banners/goChatChallengeBanner.jpeg",
-                    "android_ar": "banners/banners/goChatChallengeBanner.jpeg",
-                    "ios_en": "banners/banners/goChatChallengeBanner.jpeg",
-                    "ios_ar": "banners/banners/goChatChallengeBanner.jpeg"
-                },
-                "deeplink": "https://go.onmohub.com/caesuae/home",
-                "deeplink_path": "https://go.onmohub.com/caesuae/home"",
+                "deeplink_path": "https://go.onmohub.com/caesuae/home",
                 "type": "web",
                 "devices": "ios/android",
                 "category": "games",
@@ -144,3 +75,4 @@
         ]
     }
 }
+
